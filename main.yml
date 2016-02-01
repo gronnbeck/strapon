@@ -6,6 +6,4 @@
   roles:
     - homebrew
     - homebrew-cask
-    #- dotfiles
-    - dotvim
     - node-packages
