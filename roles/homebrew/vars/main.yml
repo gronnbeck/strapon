@@ -6,7 +6,6 @@
    - homebrew/binary
 
  homebrew_packages:
-  - { name: packer }
   - { name: awscli }
   - { name: brew-cask }
   - { name: ack }
